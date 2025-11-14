@@ -7,7 +7,7 @@ first_name: Yan
 middle_name:
 last_name: Zhu
 contact_note: >
-  yzhu27@tulane.edu & zhuyan@bu.edu
+  yzhu27@tulane.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. student at Tulane University. Research in interactive machine learning, human-AI interaction, HITL AI, and visualization.
 footer_text: >
